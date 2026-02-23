@@ -46,10 +46,17 @@
   <h3>📊 GitHub Stats</h3>
   <br>
 
-  <a href="https://github.com/g4rrzx">
-    <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=g4rrzx&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-    <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=g4rrzx&layout=compact&theme=dracula&hide_border=true&langs_count=8" alt="Top Languages" />
-  </a>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=g4rrzx&theme=dracula" alt="Profile Details" />
+
+  <br>
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=g4rrzx&theme=dracula" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=g4rrzx&theme=dracula&utcOffset=7" alt="Productive Time" />
+
+  <br>
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=g4rrzx&theme=dracula" alt="Top Languages by Repo" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=g4rrzx&theme=dracula" alt="Top Languages by Commit" />
 
   <br><br>
 
