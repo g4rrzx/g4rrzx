@@ -46,24 +46,16 @@
   <h3>📊 GitHub Stats</h3>
   <br>
 
-  <!-- Stats Cards -->
-  <table border="0" cellpadding="0" cellspacing="0" width="100%" align="center">
-    <tr>
-      <td align="center" width="50%">
-        <!-- Replace "your_github_username" below -->
-        <img src="https://github-readme-stats.vercel.app/api?username=g4rrzx&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-      </td>
-      <td align="center" width="50%">
-        <!-- g4rrzx stats -->
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=g4rrzx&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
+  <a href="https://github.com/g4rrzx">
+    <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=g4rrzx&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+    <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=g4rrzx&layout=compact&theme=dracula&hide_border=true&langs_count=8" alt="Top Languages" />
+  </a>
 
-  <!-- Streak Stats -->
-  <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=g4rrzx&theme=dracula&hide_border=true" alt="GitHub Streak" />
-  </p>
+  <br><br>
+
+  <a href="https://github.com/g4rrzx">
+    <img src="https://streak-stats.demolab.com/?user=g4rrzx&theme=dracula&hide_border=true" alt="GitHub Streak" />
+  </a>
 
 </div>
 
