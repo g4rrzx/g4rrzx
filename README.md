@@ -50,12 +50,12 @@
   <table border="0" cellpadding="0" cellspacing="0" width="100%" align="center">
     <tr>
       <td align="center" width="50%">
-        <!-- Replace "g4rrzx" below -->
-        <img src="https://github-readme-stats.vercel.app/api?g4rrzx=g4rrzx&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+        <!-- Replace "your_github_username" below -->
+        <img src="https://github-readme-stats.vercel.app/api?username=g4rrzx&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
       </td>
       <td align="center" width="50%">
-        <!-- Replace "g4rrzx" below -->
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?g4rrzx=g4rrzx&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
+        <!-- g4rrzx stats -->
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=g4rrzx&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
       </td>
     </tr>
   </table>
