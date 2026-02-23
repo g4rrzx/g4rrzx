@@ -43,44 +43,12 @@
 <br>
 
 <div align="center">
-  <h3>📊 GitHub Stats</h3>
-  <br>
 
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=g4rrzx&theme=dracula" alt="Profile Details" />
-
-  <br>
-
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=g4rrzx&theme=dracula" alt="GitHub Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=g4rrzx&theme=dracula&utcOffset=7" alt="Productive Time" />
-
-  <br>
-
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=g4rrzx&theme=dracula" alt="Top Languages by Repo" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=g4rrzx&theme=dracula" alt="Top Languages by Commit" />
-
-  <br><br>
 
   <a href="https://github.com/g4rrzx">
     <img src="https://streak-stats.demolab.com/?user=g4rrzx&theme=dracula&hide_border=true" alt="GitHub Streak" />
   </a>
 
-</div>
 
-<br>
-
-<!-- Snake Animation -->
-<div align="center">
-  <h3>🐍 Contribution Snake</h3>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/g4rrzx/g4rrzx/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/g4rrzx/g4rrzx/output/github-contribution-grid-snake.svg">
-    <!-- Note: You need a GitHub Action to generate this snake! See guide below. -->
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/g4rrzx/g4rrzx/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
-
-<br>
-
-<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
 </div>
