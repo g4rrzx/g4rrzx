@@ -50,19 +50,19 @@
   <table border="0" cellpadding="0" cellspacing="0" width="100%" align="center">
     <tr>
       <td align="center" width="50%">
-        <!-- Replace "your_github_username" below -->
-        <img src="https://github-readme-stats.vercel.app/api?username=your_github_username&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+        <!-- Replace "g4rrzx" below -->
+        <img src="https://github-readme-stats.vercel.app/api?g4rrzx=g4rrzx&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
       </td>
       <td align="center" width="50%">
-        <!-- Replace "your_github_username" below -->
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your_github_username&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
+        <!-- Replace "g4rrzx" below -->
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?g4rrzx=g4rrzx&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
       </td>
     </tr>
   </table>
 
   <!-- Streak Stats -->
   <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=your_github_username&theme=dracula&hide_border=true" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=g4rrzx&theme=dracula&hide_border=true" alt="GitHub Streak" />
   </p>
 
 </div>
@@ -73,10 +73,10 @@
 <div align="center">
   <h3>🐍 Contribution Snake</h3>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/your_github_username/your_github_username/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/your_github_username/your_github_username/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/g4rrzx/g4rrzx/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/g4rrzx/g4rrzx/output/github-contribution-grid-snake.svg">
     <!-- Note: You need a GitHub Action to generate this snake! See guide below. -->
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/your_github_username/your_github_username/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/g4rrzx/g4rrzx/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
 
