@@ -24,6 +24,8 @@
 </div>
 
 - 🔭 I’m currently working on building awesome web applications.
+- 💻 Developed a Farcaster Mini-App (Roulette) integrated with Arbitrum on-chain rewards.
+- 🤖 Building automated systems for Web3 interactions using Node.js and AI Agents.
 - 🌱 I’m currently learning the latest modern web frameworks and backend architectures.
 - 👯 I’m looking to collaborate on open-source projects or interesting web ideas.
 - 💬 Ask me about **JavaScript, React, Node.js, and modern UI/UX.**
