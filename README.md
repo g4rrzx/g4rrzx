@@ -38,7 +38,7 @@
   <h3>🛠️ Tech Stack & Tools</h3>
 
   <p align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,mongodb,postgresql,git,docker,linux" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,mongodb,linux" />
   </p>
 </div>
 
