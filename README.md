@@ -13,7 +13,7 @@
     <a href="https://twitter.com/g4rrzx"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
     <a href="https://linkedin.com/in/tegar86"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
     <a href="mailto:tegarandrian87az@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-    <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-252525?style=for-the-badge&logo=mac-os&logoColor=white" /></a>
+    <a href="https://g4rrzx.my.id"><img src="https://img.shields.io/badge/Portfolio-252525?style=for-the-badge&logo=mac-os&logoColor=white" /></a>
   </p>
 </div>
 
@@ -24,7 +24,7 @@
 </div>
 
 - 🔭 I’m currently working on building awesome web applications.
-- 💻 Developed a Farcaster Mini-App (Roulette) integrated with Arbitrum on-chain rewards.
+- 💻 Developed a Farcaster Mini-App.
 - 🤖 Building automated systems for Web3 interactions using Node.js and AI Agents.
 - 🌱 I’m currently learning the latest modern web frameworks and backend architectures.
 - 👯 I’m looking to collaborate on open-source projects or interesting web ideas.
